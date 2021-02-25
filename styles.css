@@ -1,0 +1,16 @@
+body {
+  background-color: #e0ffff;
+}
+h1{
+  color: #48d1cc
+}
+h3{
+color: #48d1cc
+}
+hr {
+  border-style: inset;
+  border-top-style: 1px;
+  border-color: grey;
+  border-width: 1px;
+  width: 100%;
+}
